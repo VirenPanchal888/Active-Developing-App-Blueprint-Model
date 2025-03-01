@@ -4,7 +4,7 @@ This project is an excellent opportunity for me to gain hands-on experience in A
 By working with BOLT.ai, Replit, Flutter for the frontend, Node.js and PostgreSQL for backend management, and Python for AI-based predictions, I am enhancing my technical expertise in real-time data processing, machine learning, and system scalability. 
 Additionally, I’m learning how to optimize user experience, implement secure payment gateways, and automate business workflows in a live project, which will help me develop practical problem-solving skills and prepare for enterprise-level application development.
 
-*🎯 Expected Output & User Experience*
+**🎯 Expected Output & User Experience**
 🔹 Fully Automated & Streamlined Order System
 Customers will be able to place pre-orders effortlessly, eliminating long waiting times.
 The app’s real-time tracking will show order status updates and estimated pickup times, ensuring a smooth experience.
